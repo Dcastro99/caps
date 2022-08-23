@@ -34,7 +34,7 @@ function generateNewOrder(orderInfo) {
 
 setInterval(() => {
   generateNewOrder(generateCustomer());
-}, 3000);
+}, 10000);
 
 // setTimeout(() => {
 //   process.exit();
