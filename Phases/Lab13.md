@@ -40,7 +40,7 @@ Must run 4 terminals:
 
 ![](../lab13terminalView.png)
 
-## **~VENDOR UPDATE FROM THE `QUEUE` WHEN THEY LOGIN~**
+## **VENDOR UPDATE FROM THE `QUEUE` WHEN THEY LOGIN**
 
 ```javascript
 
@@ -62,7 +62,7 @@ New order from  1-800-flowers
   }
 ]
 ```
-## **~DRIVER UPDATE FROM THE `QUEUE` WHEN THEY LOGIN~**
+## **DRIVER UPDATE FROM THE `QUEUE` WHEN THEY LOGIN**
 
 ```javascript
 driver1 delivered order(s) [
