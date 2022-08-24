@@ -14,9 +14,5 @@ describe('generates new order', () => {
     );
   });
 
-  // // These tests are wired with async/await --- so much cleaner!
-  // it('should respond with a 404 on an invalid method', async () => {
-  //   const response = await mockRequest.put('/food');
-  //   expect(response.status).toBe(404);
-  // });
+
 });

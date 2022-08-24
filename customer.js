@@ -15,6 +15,7 @@ function generateCustomer() {
   };
 }
 
+
 function generateNewOrder(orderInfo) {
   const { orderID, store, customer, address } = orderInfo;
   const obj = {

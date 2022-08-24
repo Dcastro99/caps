@@ -39,7 +39,7 @@ Must run 4 terminals:
 
 > ###Terminal view:
 
-![](../terminal-view-lab12.png)
+![](/img/terminal-view-lab12.png)
 
 **Returns Object =>**
 
@@ -86,5 +86,5 @@ EVENT {
 
 *(Created with figma)*
 
-![](../CAPS-UML.png)
+![](/img/CAPS-UML.png)
 
