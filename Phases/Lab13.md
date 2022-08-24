@@ -38,7 +38,7 @@ Must run 4 terminals:
 
 > ###Terminal view:
 
-![](../lab13terminalView.png)
+![](/img/lab13terminalView.png)
 
 ## **VENDOR UPDATE FROM THE `QUEUE` WHEN THEY LOGIN**
 
@@ -102,5 +102,5 @@ driver3 delivered order(s) [
 
 *(Created with figma)*
 
-![](../lab13UML.png)
+![](/img/lab13UML.png)
 

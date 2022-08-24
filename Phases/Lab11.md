@@ -79,4 +79,4 @@ EVENT {
 
 *(Created with figma)*
 
-![](../uml-lab11.png)
+![](/img/uml-lab11.png)

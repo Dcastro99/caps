@@ -51,6 +51,7 @@ driver.on('connect', (driver) => {
 
   driver.on('inTransit', (data) => {
 
+
     // driverQueue.push(data.payload.store, data.messageID, { type: 'driver in-transit', payload: data.payload });
     setTimeout(() => {
       data.status = 'in-transit';

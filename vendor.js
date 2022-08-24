@@ -6,8 +6,8 @@ const vendors = ['acme-widgets', '1-800-flowers'];
 function setupVendorPool() {
   vendors.forEach((v) => {
     const vendor = io('ws://localhost:3001/vendor');
-    vendor.emit('newVendor', v);
-    vendor.emit('getAll', v);
+    vendor.emit('newVendor', v);// Placing vendors into rooms
+    vendor.emit('getAll', v);// checks queue for orders missed
     vendor.on('customerOrder', (data) => {
       console.log('New order from ', data.payload.store);
 
